@@ -1,5 +1,5 @@
-0.0.0.0 https://g.cda.pl
-0.0.0.0 vs0.cda.pl
+0.0.0.0 g.cda.pl
+0.0.0.0 vs00.cda.pl
 0.0.0.0 vs01.cda.pl
 0.0.0.0 vs02.cda.pl
 0.0.0.0 vs03.cda.pl
